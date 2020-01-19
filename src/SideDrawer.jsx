@@ -92,7 +92,7 @@ function SideDrawer(props) {
         justify="center"
         style={{minHeight: '90vh'}}>
 
-        <Button href={"/"}><Avatar src="https://s.gravatar.com/avatar/33bee907d6bc6fb421926c792051648a?s=80"
+        <Button href={"/"}><Avatar src=""
                                    className={classes.gravatar}/></Button>
         <Divider/>
 
@@ -117,9 +117,9 @@ function SideDrawer(props) {
 
 
       </Grid>
-      <footer className={classes.footer}><a href="https://github.com/nimit95/Personal-Website" target="_blank"
+      <footer className={classes.footer}><a href="https://github.com/vaibhavshukla182/Personal-Website" target="_blank"
                                             rel="nofollow noopener noreferrer">
-        <div>Designed &<br/> Built with ❤️ <br/>by <br/>Nimit</div>
+        <div>Designed &<br/> Built with ❤️ </div>
       </a></footer>
     </Drawer>
   );
