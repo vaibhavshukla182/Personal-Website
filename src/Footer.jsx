@@ -60,7 +60,7 @@ function Footer() {
           <EmailIcon style={{color: "#ffffff"}} fontSize="large"/>
         </ListItem>
       </List>
-      <Link href="https://github.com/nimit95/Personal-Website" target="_blank"
+      <Link href="https://github.com/vaibhavshukla182/Personal-Website" target="_blank"
             rel="nofollow noopener noreferrer" style={{textAlign: "center"}}>
         <div>Designed & Built with ❤️</div>
       </Link>
