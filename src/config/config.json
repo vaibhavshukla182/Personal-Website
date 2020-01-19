@@ -1,42 +1,33 @@
 {
-  "name": "Nimit Aggarwal",
-  "email": "nimitagg95@gmail.com",
-  "description": "Senior Software Engineer @BrowserStack",
-  "resumeUrl": "https://docs.google.com/document/d/1p0b_R7ExCl_TDCTAJJsA-RxW8GE0Jx9uuF9F1IH9pSA/edit?usp=sharing",
+  "name": "Vaibhav Shukla",
+  "email": "vaibhvashukla182@gmail.com",
+  "description": "Data Science intern @AffineAnalytics",
+  "resumeUrl": "https://drive.google.com/open?id=1XTYy-yCdWtzZTvdOdGpPBgM8UibqBf3r",
   "ga": "UA-156449739-1",
   "drawerButtons": [
     {
       "iconName": "linkedIn",
       "svgPath": "M22.7189 20.9902H18.77V15.2747C18.77 13.9117 18.74 12.1577 16.7122 12.1577C14.6533 12.1577 14.3389 13.6408 14.3389 15.1741V20.9902H10.39V9.23684H14.1833V10.8389H14.2344C14.7644 9.91524 16.0533 8.94024 17.9789 8.94024C21.98 8.94024 22.72 11.3726 22.72 14.5388V20.9902H22.7189ZM5.93 7.62861C4.65889 7.62861 3.63778 6.67824 3.63778 5.50926C3.63778 4.34132 4.66 3.39197 5.93 3.39197C7.19667 3.39197 8.22333 4.34132 8.22333 5.50926C8.22333 6.67824 7.19556 7.62861 5.93 7.62861ZM7.91 20.9902H3.95V9.23684H7.91V20.9902ZM24.6944 0H1.96778C0.88 0 0 0.794368 0 1.7745V22.8571C0 23.8382 0.88 24.6316 1.96778 24.6316H24.6911C25.7778 24.6316 26.6667 23.8382 26.6667 22.8571V1.7745C26.6667 0.794368 25.7778 0 24.6911 0H24.6944Z",
-      "link": "https://www.linkedin.com/in/nimit95/"
+      "link": "https://www.linkedin.com/in/vaibhavshukla182/"
     },
     {
       "iconName": "github",
       "svgPath": "M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12",
-      "link": "https://www.github.com/nimit95/"
+      "link": "https://github.com/vaibhavshukla182"
     },
     {
       "iconName": "medium",
       "svgPath": "M0 0v24h24V0H0zm19.938 5.686L18.651 6.92a.376.376 0 0 0-.143.362v9.067a.376.376 0 0 0 .143.361l1.257 1.234v.271h-6.322v-.27l1.302-1.265c.128-.128.128-.165.128-.36V8.99l-3.62 9.195h-.49L6.69 8.99v6.163a.85.85 0 0 0 .233.707l1.694 2.054v.271H3.815v-.27L5.51 15.86a.82.82 0 0 0 .218-.707V8.027a.624.624 0 0 0-.203-.527L4.019 5.686v-.27h4.674l3.613 7.923 3.176-7.924h4.456v.271z",
-      "link": "https://medium.com/@nimit95"
-    },
-    {
-      "iconName": "twitter",
-      "svgPath": "M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z",
-      "link": "https://twitter.com/nimit95"
-    },
-    {
-      "iconName": "instagram",
-      "link": "https://www.instagram.com/nimit.agg/"
+      "link": "https://medium.com/@vaibhavshukla182"
     }
   ],
   "favourite": [
     "Learning things",
-    "Solving Real Problems",
-    "Swimming",
-    "Food"
+    "Data",
+    "Cricket",
+    "Gym"
   ],
-  "aboutText": "Hello! I am working with BrowserStack as a Senior Software Engineer. I completed B.Tech in Computer Science and Engineering in 2018.\n\nStrong data structures, algorithms and problem-solving skills, fast learner, technology enthusiast, impact-oriented.\nI recently got a Mobile Web specialist certification from Google and has also completed Udacity's Mobile Web specialist Nanodegree.\n\nI have been an SDE intern and TA in Algo at Coding Blocks. I have also completed Udacity's Android Developer, Nanodegree by Google. I've completed Machine Learning and Algorithm Analysis and Design on Coursera.\n\nI am driven by challenging, fast-paced, exciting, and educational environments. My areas of interest include web and mobile application development.\n",
+  "aboutText": "Hello! I am working with Affine Analytics as a Data Science Intern. I will complete my B.Tech in Computer Science and Engineering in 2020 from Indian Institute of Information Technology Kalyani.\n\nStrong data structures, algorithms and problem-solving skills, fast learner, technology enthusiast, impact-oriented.\nI recently got a Mobile Web specialist certification from Google and has also completed Udacity's Mobile Web specialist Nanodegree.\n\nI have been an SDE intern and TA in Algo at Coding Blocks. I have also completed Udacity's Android Developer, Nanodegree by Google. I've completed Machine Learning and Algorithm Analysis and Design on Coursera.\n\nI am driven by challenging, fast-paced, exciting, and educational environments. My areas of interest include web and mobile application development.\n",
   "aboutTechnologies": [
     "JavaScript (ES6+)",
     "Node.js",
@@ -49,85 +40,75 @@
   "aboutPictureURL": "https://avatars0.githubusercontent.com/u/14093420?s=460&v=4",
   "experience": [
     {
-      "name": "BrowserStack",
-      "position": "Senior Software Engineer",
-      "time": "Mar 2019 - Present",
-      "description": "Part of Local Team. Local Testing allows you to test your private and internal servers, alongside public URLs, using the BrowserStack cloud, which has support for firewalls, proxies and Active Directory. Local Testing handles around 1 million sessions per day. Primarily works in Node JS\n• Designed and Defined the metrics for the performance of the system and put them in place.\n• Successful in improving the performance of the system by ~30%\n• Moved all the components to the latest versions(Removed Tech debt)\n• Internal tools and documentation to reduce customer resolution time by ~50%",
-      "link": "https://www.browserstack.com"
+      "name": "Affine Analytics",
+      "position": "Data Science Intern",
+      "time": "Jan 2020 - Present",
+      "description": "Currently doing my 6 months final semester internship with affine analytics working on data science problems.",
+      "link": "https://www.affineanalytics.com/"
     },
     {
-      "name": "BrowserStack",
-      "position": "Software Engineer",
-      "time": "Jun 2018 - Mar 2019",
-      "description": "Part of Local Team. Local Testing allows you to test your private and internal servers, alongside public URLs, using the BrowserStack cloud, which has support for firewalls, proxies and Active Directory. Local Testing handles around 1 million sessions per day\n• Helped put metrics in place for the Stability of the system.\n• Fixed the stability of the system to 99.99 %\n• Capacity planning of the whole system, to know when to scale up\n• Solved various ops issues and various client issues.",
-      "link": "https://www.browserstack.com"
-    },
-    {
-      "name": "Google Code-in",
-      "position": "Mentor",
-      "time": "Nov 2017 - Jan 2018",
-      "description": "Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development",
-      "link": "https://codein.withgoogle.com/"
-    },
-    {
-      "name": "Coding Block",
-      "position": "Teaching Assistant Algo++",
-      "time": "July 2017 - Aug 2017",
-      "description": "Helping 60 plus students with Data Structures and Algorithms at Algo++",
-      "link": "https://codingblocks.com/"
+      "name": "IIT Kharagpur - CSE Dept. - Dr. Pabitra Mitra",
+      "position": "Research Assistant",
+      "time": "May 2019 - July 2019",
+      "description": "Worked under Dr. Pabita Mitra on the topic of ”Finding the weak juncture points between two steel plates welded together through the sonographic images of the steel plates” for TATA Steel.",
+      "link": "https://drive.google.com/open?id=1OUUP4XwAQChM8yaWjF_WX483bMDuyQ9G"
     }
   ],
   "projectData": [
     {
-      "name": "Personal Website",
-      "description": "This is my Personal Website built using React and React Spring. Hosted on github pages.",
-      "link": "https://github.com/nimit95/Personal-Website"
+      "name": "Brain MRI Segmentation using Machine Learning(Runners Up, Smart India Hackathon 2019)",
+      "description": "Our task was to segment brain MRI’s to find tumors and other areas of interest like Grey Matter, White Matter etc. using Deep Learning to help medical professionals.",
+      "link": "https://github.com/vaibhavshukla182/Brain-MRI-Segmentation"
     },
     {
-      "name": "Okr todo",
-      "description": "A Simple Objective and Key Result TODO-LIST. v1 server Side Rendered with pug and v2 in React. Used Node and Express at the backend. MySQL is the DB",
-      "link": "https://www.okrtodo.com"
+      "name": "AXIS Bank Signature Verification System",
+      "description": "Devloped a signature verification system for Axis Bank under their Axis Bank AI Challenge held in Bangalore for recognizing real signatures of a persons from their forge signature and were in the top 10 teams out of more than 3700 teams.",
+      "link": "https://github.com/vaibhavshukla182/AXIS-BANK-Signature-Verification"
     },
     {
-      "name": "SOCKS5 Stream",
-      "description": "Convert any socket server into socks5 server using streams",
-      "link": "https://github.com/nimit95/socks5-stream"
+      "name": "Text Extraction from Driving Licenses using YOLO and OpenCV",
+      "description": "Created a dataset of driving licenses by making bounding boxes around the text areas.Trained YOLO to identify such regions.Extracted text from predicted regions using OpenCV and Pytesseract.",
+      "link": "https://github.com/vaibhavshukla182/extracting_text_information_using_YOLO"
     },
     {
-      "name": "CPP Headers",
-      "description": "C++ header for Data structure",
-      "link": "https://github.com/nimit95/cpp-header"
+      "name": "Automatic Traffic Sign Detection and Recognition using YOLO",
+      "description": "Worked on a YOLO neural network project to detect and recognise traffic signs and tell them to the driver to help the driver understand traffic signs even in adverse conditions and avoid collisions and traffic jams.",
+      "link": "https://github.com/vaibhavshukla182/Traffic-Signs-and-Object-Detection"
     }
   ],
   "blogData": [
     {
-      "name": "Hello, 2020!",
-      "description": "I wrote a short summary of my 2019 and my plans for the upcoming year 2020.",
-      "link": "https://medium.com/@nimit95/hello-2020-79a4f93e3b8b?source=your_stories_page---------------------------"
+      "name": "How to solve mismatch in train and test set after categorical encoding?",
+      "description": "To solve the problem of unequal number of columns in train and test after one hot encoding.",
+      "link": "https://medium.com/@vaibhavshukla182/how-to-solve-mismatch-in-train-and-test-set-after-categorical-encoding-8320ed03552f"
     },
     {
-      "name": "How to fix app failures on Mac OS Catalina — Notarization",
-      "description": "Fix Mac Catalina app issues.",
-      "link": "https://medium.com/@nimit95/fix-macos-catalina-caused-app-failures-1f9a05d2b0ec?source=your_stories_page---------------------------"
+      "name": "https://medium.com/@vaibhavshukla182/pump-it-up-data-mining-the-water-table-f903d4cfc7a8",
+      "description": "How I solved the data mining contest Pump it Up hosted by drivendata.org.",
+      "link": "https://medium.com/@vaibhavshukla182/pump-it-up-data-mining-the-water-table-f903d4cfc7a8"
     },
     {
-      "name": "SOCKS 5 — A Proxy Protocol",
-      "description": "Explaining SOCKS5 in detail.",
-      "link": "https://medium.com/@nimit95/socks-5-a-proxy-protocol-b741d3bec66c?source=your_stories_page---------------------------"
+      "name": "Information Extraction from Driving Licenses using YOLO",
+      "description": "To automatically extract text information from DL's using ML.",
+      "link": "https://medium.com/@vaibhavshukla182/information-extraction-from-driving-licenses-using-yolo-f6178e81967d"
     },
     {
-      "name": "A Simple HTTP/HTTPS Proxy in Node Js",
-      "description": "What is Proxy then making one in Node.js",
-      "link": "https://medium.com/@nimit95/a-simple-http-https-proxy-in-node-js-4eb0444f38fc?source=your_stories_page---------------------------"
+      "name": "Want to know the diff among pd.factorize, pd.get_dummies, sklearn.preprocessing.LableEncoder and OneHotEncoder",
+      "description": "To explain the difference between these 4 encoding techniques.",
+      "link": "https://medium.com/@vaibhavshukla182/want-to-know-the-diff-among-pd-factorize-a8591eb3347d"
     }
   ],
   "journeySteps": [
     {
-      "heading": "2014 college freshman year and C++",
-      "description": "Freshman year of college in Computer Science at MAIT, Delhi. Began with basics of C++. Started doing some questions online as well. But nothing Serioud"
+      "heading": "Passed class 12 in 2015 from ISC Board",
+      "description": "I did my class 12 from Lucknow Public School,Lucknow in ISC Board securing 97% marks. "
     },
     {
-      "heading": "Learned Android",
+      "heading": "2016 Freshman at IIIT Kalyani",
+      "description": "Joined Indian Institute of Information Technology Kalyani "
+    },
+    {
+      "heading": "2016 Freshman at IIIT Kalyani",
       "description": "There was a big learning curve here. I directly started with Android so had to cope with Learning Java as well. Had got comfortable in C++ though"
     },
     {
