@@ -62,7 +62,7 @@ function Footer() {
       </List>
       <Link href="https://github.com/nimit95/Personal-Website" target="_blank"
             rel="nofollow noopener noreferrer" style={{textAlign: "center"}}>
-        <div>Designed & Built with ❤️ by Nimit</div>
+        <div>Designed & Built with ❤️</div>
       </Link>
     </footer>)
 }
